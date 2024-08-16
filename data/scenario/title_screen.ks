@@ -4,7 +4,7 @@
 
 [tb_clear_images]
 
-[chara_hide_all  time="1000"  wait="true"  ]
+[chara_hide_all  time="1000"  wait="false"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="ChromeMusicLab.m4a"  ]
 [tb_keyconfig  flag="0"  ]
 [tb_hide_message_window  ]
