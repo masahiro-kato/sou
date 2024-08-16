@@ -47,5 +47,6 @@
 [tb_hide_message_window  ]
 [chara_hide_all  time="1000"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="ゲームオーバー.png"  ]
+[chara_hide_all  time="1000"  wait="true"  ]
 [jump  storage="title_screen.ks"  target=""  ]
 [s  ]
