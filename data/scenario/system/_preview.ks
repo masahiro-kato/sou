@@ -1,0 +1,6 @@
+[hidemenubutton] 
+[preload  storage="./data/bgimage/ダウンロード.jpg"  ]
+[preload  storage="./data/bgimage/3575b9762957e9402752a00873bf5867_t.jpg"  ]
+[preload  storage="./data/bgimage/ゲームオーバー.png"  ]
+[preload  storage="./data/bgimage/71962_sample.png"  ]
+[return] 
